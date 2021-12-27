@@ -36,14 +36,17 @@ Users can be able to:
 
 ## My process
 
-
+Used HTML and CSS knowledge to create this project.
+- Created a container with required dimensions
+- Added the elements to the container
+- Styled the components using CSS and the given style-guide
+- Made it responsive, so that it becomes user-screen friendly
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
